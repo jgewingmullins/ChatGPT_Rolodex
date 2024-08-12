@@ -1,0 +1,27 @@
+{
+    "gmail_accounts": [
+        {
+            "username": "your-email@gmail.com",
+            "password": "your-app-password"
+        },
+        {
+            "username": "your-other-email@gmail.com",
+            "password": "your-other-app-password"
+        }
+    ],
+    "days_past": 7,
+    "batch_size": 1000,
+    "google_sheets": {
+        "scope": [
+            "https://spreadsheets.google.com/feeds",
+            "https://www.googleapis.com/auth/drive"
+        ],
+        "creds": "path/to/your/service_account.json",
+        "sheet_key": "your-google-sheet-key"
+    },
+    "openai": {
+        "api_key": "your-openai-api-key",
+        "input_cost_limit": 25.0,
+        "output_cost_limit": 75.0
+    }
+}
