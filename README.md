@@ -14,8 +14,8 @@ This script fetches emails from Gmail accounts, processes them, and updates a Go
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-repo/email-rolodex-updater.git
-   cd email-rolodex-updater
+   git clone https://github.com/jgewingmullins/ChatGPT_Rolodex.git
+   cd ChatGPT_Rolodex
    ```
 
 2. **Install dependencies**
