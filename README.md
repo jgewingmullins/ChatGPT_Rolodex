@@ -23,9 +23,9 @@ This script fetches emails from Gmail accounts, processes them, and updates a Go
    pip install -r requirements.txt
    ```
 
-3. **Create configuration file**
+3. **Update configuration file**
 
-    Create a config.json file in the root directory with the following structure:
+    Update the config.json file in the root directory to include your personal credentials.
     ```json
     {
         "gmail_accounts": [
